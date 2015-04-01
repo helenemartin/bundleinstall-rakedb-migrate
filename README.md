@@ -1,1 +1,1 @@
-# bundleinstall-rakedb-migrate
+bundle install-rakedb:migrate
