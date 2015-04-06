@@ -183,7 +183,11 @@ section p {
 section h1 {
   text-align: center;
 }
-
+.element {
+  shape-outside: url (img/larouse.jpg);
+  shape-image-threshold: 0.5;
+  float: left;
+}
 
 
 hr {
