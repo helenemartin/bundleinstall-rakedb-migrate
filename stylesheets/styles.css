@@ -7,7 +7,7 @@ body {
   font-weight:300;
   background: url('../img/wimsew.jpg');
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: contain;
   background-position: center;
 }
 
