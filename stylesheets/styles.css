@@ -166,6 +166,11 @@ section {
   padding-bottom:50px;
 }
 
+section p {
+  font-size: 0.6em;
+  text-indent: 20px;
+}
+
 
 
 hr {
