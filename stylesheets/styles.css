@@ -97,6 +97,9 @@ img {
   width:20%;
   border-radius: 50%;
 }
+header h1 {
+  color: yellow;
+}
 
 header {
   width:270px;
@@ -109,7 +112,7 @@ header nav {
   height: 150px;
   
   padding: 5px;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.9);
   
  /* background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
@@ -167,7 +170,7 @@ section {
   width:500px;
   float:right;
   padding: 30px;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.9);
   border-radius:5px;
   border:1px solid rgba(255, 255, 255, 0.5);;
   box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.0.1) 0 -1px 0;
