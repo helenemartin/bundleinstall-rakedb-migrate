@@ -189,7 +189,7 @@ section h1 {
   text-align: center;
 }
 .element {
-  shape-outside: url('../img/larouuse.png');
+  shape-outside: url('../img/larouse.png');
   shape-image-threshold: 0.5;
   float: left;
 }
