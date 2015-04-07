@@ -227,6 +227,12 @@ z-index: -1;
 
 }
 
+figcaption {
+  font-size: 10px;
+  font-style: italic;
+  color: #777;
+}
+
 
 @media print, screen and (max-width: 960px) {
   
