@@ -226,6 +226,9 @@ height: auto;
 z-index: -1;
 
 }
+figure {
+  text-align: left;
+}
 
 figcaption {
   font-size: 10px;
