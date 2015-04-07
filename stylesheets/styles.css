@@ -97,6 +97,11 @@ img {
   width:40%;
   border-radius: 50%;
 }
+
+video {
+  width: 80%;
+}
+
 header h1 {
   color: #777;
 }
