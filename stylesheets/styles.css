@@ -195,13 +195,11 @@ section h1 {
 }
 .element {
   shape-outside: url('../img/larouse.png');
-  shape-image-threshold: 0.5;
+ /* shape-image-threshold: 0.5;*/
   float: left;
 }
 
-.element img {
-  padding: 0 5px 0 5px;
-}
+
 
 
 hr {
