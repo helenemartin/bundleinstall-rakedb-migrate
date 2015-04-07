@@ -193,6 +193,11 @@ section p {
 section h1 {
   text-align: center;
 }
+
+section iframe {
+  width: 80%;
+}
+
 .element {
   shape-outside: url('../img/larouse.png');
  /* shape-image-threshold: 0.5;*/
