@@ -193,11 +193,14 @@ section p {
 section h1 {
   text-align: center;
 }
+<<<<<<< HEAD
 
 section iframe {
   width: 80%;
 }
 
+=======
+>>>>>>> b4fb43ce6790bf6769629179f42069b5c43932ed
 .element {
   shape-outside: url('../img/larouse.png');
  /* shape-image-threshold: 0.5;*/
