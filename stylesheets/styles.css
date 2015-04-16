@@ -94,8 +94,8 @@ th {
 }
 
 img {
-  width:40%;
-  border-radius: 50%;
+  width:50%;
+ /* border-radius: 50%;*/
 }
 
 video {
@@ -196,7 +196,7 @@ section h1 {
 
 
 section iframe {
-  
+
   width: 80%;
 }
 
