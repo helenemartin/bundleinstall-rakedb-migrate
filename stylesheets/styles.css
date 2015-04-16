@@ -206,7 +206,7 @@ section iframe {
   float: left;
 }
 .element2 {
-  shape-outside: url('../img/boyinvitrine.jpg');
+  shape-outside: url('../img/museum.jpg');
  /* shape-image-threshold: 0.5;*/
   float: right;
 }
