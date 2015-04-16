@@ -205,6 +205,11 @@ section iframe {
  /* shape-image-threshold: 0.5;*/
   float: left;
 }
+.element2 {
+  shape-outside: url('../img/boyinvitrine.jpg');
+ /* shape-image-threshold: 0.5;*/
+  float: right;
+}
 
 
 
