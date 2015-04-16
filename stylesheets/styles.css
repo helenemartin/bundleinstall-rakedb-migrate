@@ -206,11 +206,11 @@ section iframe {
  /* shape-image-threshold: 0.5;*/
   float: left;
 }
-/*.element2 {
+.element2 {
   shape-outside: url('../img/museum.jpg');
   shape-image-threshold: 0.5;
   float: right;
-}*/
+}
 
 
 
